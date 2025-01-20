@@ -1,0 +1,22 @@
+DESCRIPTION FOR CATEGORIES:
+
+G (General Audience): Suitable for all ages. Contains no content that would be considered inappropriate for children.
+
+PG (Parental Guidance): Suitable for children, but parents are urged to provide supervision. 
+It may contain some material that parents might consider unsuitable for younger children, like mild language or brief moments of peril.
+
+PG-13 (Parents Strongly Cautioned): Suitable for viewers aged 13 and older. 
+It may contain material that may be inappropriate for children under 13, including mild profanity, sexual content, or intense action.
+
+R (Restricted): Restricted to viewers over the age of 17 or 18. 
+May contain explicit content such as strong language, sexual scenes, drug use, or intense violence. 
+Parents are strongly cautioned against letting younger children watch.
+
+TV-MA (Mature Audiences): Intended for adult audiences (17+). Contains explicit content such as graphic violence, strong language, sexual content, 
+or other mature themes that are not suitable for children.
+
+TV-14 (Parents Strongly Cautioned): Intended for viewers aged 14 and older. It may contain content like moderate language, violence, or suggestive themes.
+ Parents should be cautious when allowing younger teenagers to watch.
+
+TV-PG (Parental Guidance Suggested): Similar to PG, but specifically for TV shows. 
+It indicates that some material may not be suitable for younger children. Parents should use discretion based on the content.
